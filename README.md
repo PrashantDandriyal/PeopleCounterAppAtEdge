@@ -26,9 +26,12 @@
 
 ![Image](https://user-images.githubusercontent.com/26524467/73133782-8a00e880-4053-11ea-9dad-e05df825c76e.png)
 
-
 **Step: 2**
 >   - Create a branch and make sure to commit all your changes on branch only. it would be easy and clean.
+```git
+ git init myPeopleCounterVersion  
+ cd myPeopleCounterVersion
+```
 >   - Experiment, work and when its satisfactory and good to be updated.
 >   - commit all your changes on your _branch_.
 >   - push them to your fork.
